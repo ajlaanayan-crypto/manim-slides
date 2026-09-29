@@ -51,3 +51,17 @@ rendering_times.csv
 
 # macOS
 .DS_Store
+
+# Auto-added standard ignores
+*$py.class
+*.env
+*.log
+*.py[cod]
+.env
+.env.*.local
+.env.local
+.pytest_cache/
+.venv/
+Thumbs.db
+env/
+venv/
